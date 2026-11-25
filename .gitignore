@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Code/preview/
+Video_silent_synced.mp4
